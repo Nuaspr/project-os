@@ -1,0 +1,82 @@
+html, body {
+    background-color:rgb(225, 225, 225);
+    margin: 0;
+    padding: 0;
+}
+
+.top-area{
+    background-color:rgb(41, 41, 41);
+}
+
+.top-head {
+    font-size: 50px;
+    padding: 25px;
+}
+
+.from-label {
+    padding: 25;
+}
+
+.from-label1 {
+    padding: 50;
+}
+
+.from-label2 {
+    padding: 25;
+}
+
+.menu-item{
+    color: white;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.brand{
+    font-size: 20px;
+    font-weight:600;
+}
+
+.main-area{
+    max-width: 700px;
+    margin: auto;
+}
+
+.box{
+    background-color: rgb(225, 225, 225);
+    margin: 20px;
+    padding: 160px;
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    display: block;
+}
+
+div.img-resize img {
+    width: 150px;
+    height: auto;
+}
+div.img-resize {
+    width: 150x;
+    height: 150px;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.button{
+    color: rgb(41, 41, 41);
+    background-color:rgb(219, 219, 219);
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bottom-area{
+    background-color:rgb(201,201,201);
+    padding: 10px;
+    text-align: center;
+}
